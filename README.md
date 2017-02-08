@@ -1,2 +1,2 @@
 # gallery
-Gallery files (sample scripts, screenshots, etc.) for other repositories
+This is a repo for "showing off" stuff, for example screenshots or samples, or whatever else that a user doesn't really need when cloning a main repo
